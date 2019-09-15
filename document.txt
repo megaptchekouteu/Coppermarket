@@ -1,1 +1,3 @@
 Here is a new document
+
+This is a complete new documentation.
